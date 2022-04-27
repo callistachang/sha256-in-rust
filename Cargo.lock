@@ -3,13 +3,6 @@
 version = 3
 
 [[package]]
-name = "an-attempt-was-made"
-version = "0.1.0"
-dependencies = [
- "clap",
-]
-
-[[package]]
 name = "atty"
 version = "0.2.14"
 source = "registry+https://github.com/rust-lang/crates.io-index"
@@ -160,6 +153,13 @@ source = "registry+https://github.com/rust-lang/crates.io-index"
 checksum = "a1feb54ed693b93a84e14094943b84b7c4eae204c512b7ccb95ab0c66d278ad1"
 dependencies = [
  "proc-macro2",
+]
+
+[[package]]
+name = "sha256-in-rust"
+version = "0.1.0"
+dependencies = [
+ "clap",
 ]
 
 [[package]]

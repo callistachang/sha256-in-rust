@@ -1,5 +1,5 @@
 [package]
-name = "an-attempt-was-made"
+name = "sha256-in-rust"
 version = "0.1.0"
 edition = "2021"
 
