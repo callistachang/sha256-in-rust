@@ -4,6 +4,6 @@ An implementation of SHA256 with Rust based on [this publication](https://nvlpub
 
 [This visualization](https://sha256algorithm.com/) of SHA256 was pretty great for reference.
 
-## Why?
+## Motivation
 
-I just read the Rust book and wanted to try a small project out!
+I just read the Rust book and wanted to try making a small thing with it!
